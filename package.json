@@ -2,22 +2,22 @@
   "name": "groupmebot",
   "description": "GroupMe bot",
   "version": "0.1.0",
-  "homepage": "https://github.com/billy/groupmebot",
+  "homepage": "https://github.com/billyvg/groupmebot",
   "author": {
     "name": "Billy Vong",
     "email": "billyvg@gmail.com"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/billy/groupmebot.git"
+    "url": "git://github.com/billyvg/groupmebot.git"
   },
   "bugs": {
-    "url": "https://github.com/billy/groupmebot/issues"
+    "url": "https://github.com/billyvg/groupmebot/issues"
   },
   "licenses": [
     {
       "type": "MIT",
-      "url": "https://github.com/billy/groupmebot/blob/master/LICENSE-MIT"
+      "url": "https://github.com/billyvg/groupmebot/blob/master/LICENSE-MIT"
     }
   ],
   "main": "lib/groupmebot",
