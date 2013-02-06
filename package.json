@@ -1,0 +1,39 @@
+{
+  "name": "groupmebot",
+  "description": "GroupMe bot",
+  "version": "0.1.0",
+  "homepage": "https://github.com/billy/groupmebot",
+  "author": {
+    "name": "Billy Vong",
+    "email": "billyvg@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/billy/groupmebot.git"
+  },
+  "bugs": {
+    "url": "https://github.com/billy/groupmebot/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/billy/groupmebot/blob/master/LICENSE-MIT"
+    }
+  ],
+  "main": "lib/groupmebot",
+  "engines": {
+    "node": ">= 0.6.0"
+  },
+  "scripts": {
+    "test": "grunt test"
+  },
+  "devDependencies": {
+    "grunt": "~0.3.17"
+  },
+  "keywords": [],
+  "dependencies": {
+    "websocket": "~1.0.8",
+    "underscore": "~1.4.4",
+    "request": "~2.12.0"
+  }
+}
